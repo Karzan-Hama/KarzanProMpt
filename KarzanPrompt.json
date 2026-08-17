@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Neon Fashion Portrait",
+    "content": "A high-fashion female model wearing a translucent holographic trench coat, standing on a rainy cyberpunk street at night, vibrant neon blue and pink lights reflecting on the wet pavement, cinematic lighting, 8k, shot on Arri Alexa, depth of field",
+    "model": "Nano Banana Pr",
+    "category": "Fashion & Portrait",
+    "img_name": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
+  },
+  {
+    "id": 2,
+    "title": "Epic Fantasy Dragon",
+    "content": "A majestic golden dragon resting on the ruins of an ancient castle in a snowy mountain peak, intricate scales, glowing yellow eyes, magical aura, epic fantasy art style, digital painting, dramatic atmosphere",
+    "model": "Midjourney V6",
+    "category": "Fantasy & Mythical",
+    "img_name": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b"
+  },
+  {
+    "id": 3,
+    "title": "Cyberpunk City Skyline",
+    "content": "Futuristic Tokyo skyline at night with flying cars, massive holographic advertisements, skyscrapers covered in neon lights, rain falling, highly detailed, cinematic, Unreal Engine 5 render, photorealistic",
+    "model": "SDXL 1.0",
+    "category": "Cityscapes & Scifi",
+    "img_name": "https://images.unsplash.com/photo-1519501025264-65ba15a82390"
+  },
+  {
+    "id": 4,
+    "title": "Minimalist Modern Living Room",
+    "content": "A bright, minimalist modern living room interior with large panoramic windows, a cream-colored sectional sofa, a single abstract art piece on the wall, a potted monstera plant, natural sunlight streaming in, architectural photography",
+    "model": "Nano Banana Pr",
+    "category": "Interior Design",
+    "img_name": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace"
+  },
+  {
+    "id": 5,
+    "title": "Gourmet Burger Close-up",
+    "content": "Extreme close-up of a gourmet double cheeseburger with melted cheddar cheese, crispy bacon, lettuce, and tomato, sitting on a wooden table, rustic aesthetic, steam rising, shallow depth of field, professional food photography, studio lighting",
+    "model": "DALL-E 3",
+    "category": "Food Photography",
+    "img_name": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+  },
+  {
+    "id": 6,
+    "title": "Futuristic Android Robot",
+    "content": "A sleek silver android robot with glowing blue eye visors, exposed mechanical joints and gears, standing in a futuristic laboratory, high-tech, cinematic, 8k resolution, extremely detailed chrome reflections",
+    "model": "Nano Banana Pr",
+    "category": "Sci-Fi & Tech",
+    "img_name": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e"
+  },
+  {
+    "id": 7,
+    "title": "Serene Waterfall Landscape",
+    "content": "A breathtaking view of a massive waterfall in a lush green tropical forest, a rainbow forming in the mist from the sunlight breaking through the canopy, peaceful and serene, shot on a wide-angle lens",
+    "model": "SDXL 1.0",
+    "category": "Nature & Landscapes",
+    "img_name": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  {
+    "id": 8,
+    "title": "Pixar Style Cute Fox",
+    "content": "A cute 3D animated little fox wearing a tiny explorer hat, sitting on a glowing mushroom in a magical enchanted forest, Pixar style animation, soft lighting, vibrant colors, charming expression",
+    "model": "Nano Banana Pr",
+    "category": "3D Cartoon & Animation",
+    "img_name": "https://images.unsplash.com/photo-1543946207-39a5635dc3b3"
+  },
+  {
+    "id": 9,
+    "title": "Glass Perfume Product Mockup",
+    "content": "A luxurious frosted glass perfume bottle sitting on a marble pedestal, soft pink backlight illuminating the liquid inside, delicate gold accents, minimalist luxury product photography",
+    "model": "Midjourney V6",
+    "category": "Product Design",
+    "img_name": "https://images.unsplash.com/photo-1594035910387-fea47794261f"
+  },
+  {
+    "id": 10,
+    "title": "Glitch Abstract Art",
+    "content": "Abstract 3D digital art with glitch effects, rotating distorted cubes, vibrant neon purple and electric blue colors, chaotic but balanced, hyper-realistic textures",
+    "model": "Nano Banana Pr",
+    "category": "Abstract & Art",
+    "img_name": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853"
+  },
+  {
+    "id": 11,
+    "title": "Realistic Portrait of an Old Fisherman",
+    "content": "Hyper-realistic portrait of an old fisherman with weathered skin, gray beard, wearing a wool cap, wrinkles deep and detailed, dramatic side lighting, captured with 85mm lens, bokeh background, serene mood",
+    "model": "SDXL 1.0",
+    "category": "Realistic Portraiture",
+    "img_name": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+  },
+  {
+    "id": 12,
+    "title": "Deep Space Nebula",
+    "content": "A massive cosmic nebula in deep space with swirling clouds of bright orange, purple, and deep blue gases, thousands of sparkling stars, glowing galaxy core in the background, astrophotography style",
+    "model": "Nano Banana Pr",
+    "category": "Space & Astronomy",
+    "img_name": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564"
+  },
+  {
+    "id": 13,
+    "title": "Watercolor Flower Bouquet",
+    "content": "A beautiful soft watercolor painting of a bouquet of yellow sunflowers and blue irises, loose brush strokes, vibrant splashes of paint, white background, delicate and elegant",
+    "model": "DALL-E 3",
+    "category": "Illustration & Painting",
+    "img_name": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7"
+  },
+  {
+    "id": 14,
+    "title": "Streetwear Sneakers",
+    "content": "A pair of high-end streetwear sneakers with bright orange and white color blocks, thick chunky soles, sitting on a concrete skatepark ramp, urban aesthetic, sunny day, lifestyle photography",
+    "model": "Nano Banana Pr",
+    "category": "Fashion & Lifestyle",
+    "img_name": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 15,
+    "title": "Paris Street Cafe",
+    "content": "An authentic cobblestone street in Paris with a cozy outdoor cafe under red awnings, people sitting at small tables enjoying coffee, black and white aesthetic with selective color on the red awnings, romantic and cinematic",
+    "model": "Midjourney V6",
+    "category": "Street Photography",
+    "img_name": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34"
+  }
+]
